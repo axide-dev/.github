@@ -1,4 +1,5 @@
-## Hi there 👋
+Accessibility is not a feature. It’s a fundamental right. We exist to ensure that everyone can experience everything.
+No barriers. No exceptions.
 
 <!--
 
